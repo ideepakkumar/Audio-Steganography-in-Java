@@ -1,3 +1,3 @@
 # Steganography
-Audio,Image,Video Steganography
+Audio Steganography
 Used various sources
